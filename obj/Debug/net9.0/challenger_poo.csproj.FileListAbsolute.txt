@@ -1,0 +1,15 @@
+C:\Users\henri\OneDrive\Área de Trabalho\Estudos\challenger_poo\bin\Debug\net9.0\challenger_poo.exe
+C:\Users\henri\OneDrive\Área de Trabalho\Estudos\challenger_poo\bin\Debug\net9.0\challenger_poo.deps.json
+C:\Users\henri\OneDrive\Área de Trabalho\Estudos\challenger_poo\bin\Debug\net9.0\challenger_poo.runtimeconfig.json
+C:\Users\henri\OneDrive\Área de Trabalho\Estudos\challenger_poo\bin\Debug\net9.0\challenger_poo.dll
+C:\Users\henri\OneDrive\Área de Trabalho\Estudos\challenger_poo\bin\Debug\net9.0\challenger_poo.pdb
+C:\Users\henri\OneDrive\Área de Trabalho\Estudos\challenger_poo\obj\Debug\net9.0\challenger_poo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\henri\OneDrive\Área de Trabalho\Estudos\challenger_poo\obj\Debug\net9.0\challenger_poo.AssemblyInfoInputs.cache
+C:\Users\henri\OneDrive\Área de Trabalho\Estudos\challenger_poo\obj\Debug\net9.0\challenger_poo.AssemblyInfo.cs
+C:\Users\henri\OneDrive\Área de Trabalho\Estudos\challenger_poo\obj\Debug\net9.0\challenger_poo.csproj.CoreCompileInputs.cache
+C:\Users\henri\OneDrive\Área de Trabalho\Estudos\challenger_poo\obj\Debug\net9.0\challenger_poo.sourcelink.json
+C:\Users\henri\OneDrive\Área de Trabalho\Estudos\challenger_poo\obj\Debug\net9.0\challenger_poo.dll
+C:\Users\henri\OneDrive\Área de Trabalho\Estudos\challenger_poo\obj\Debug\net9.0\refint\challenger_poo.dll
+C:\Users\henri\OneDrive\Área de Trabalho\Estudos\challenger_poo\obj\Debug\net9.0\challenger_poo.pdb
+C:\Users\henri\OneDrive\Área de Trabalho\Estudos\challenger_poo\obj\Debug\net9.0\challenger_poo.genruntimeconfig.cache
+C:\Users\henri\OneDrive\Área de Trabalho\Estudos\challenger_poo\obj\Debug\net9.0\ref\challenger_poo.dll
